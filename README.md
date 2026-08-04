@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0260-single-number-iii](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -27,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
