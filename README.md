@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/0268-missing-number) |
+| [2785-sort-vowels-in-a-string](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [2785-sort-vowels-in-a-string](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
