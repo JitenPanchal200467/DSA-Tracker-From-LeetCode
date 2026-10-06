@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0260-single-number-iii](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/0268-missing-number) |
+| [1652-defuse-the-bomb](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2785-sort-vowels-in-a-string](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/2785-sort-vowels-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/JitenPanchal200467/DSA-Tracker-From-LeetCode/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
